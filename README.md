@@ -1,8 +1,9 @@
-### Helix Jump Game
+# Helix Jump Game
 ---
 <img width="960" alt="Screenshot 2024-12-15 200003" src="https://github.com/user-attachments/assets/90e2d3bb-85fe-4f8b-8f00-e0a406f2adaf" />
 
 A Unity-based game featuring multiple levels, interactive gameplay, sound effects, and Firebase/Google AdMob integration. This game allows users to track their scores, set new high scores, and experience a fun, engaging experience with smooth controls, visual effects, and skin customization.
+
 ---
 # Features
 Score and High Score:
@@ -44,8 +45,10 @@ Google AdMob Integration:
 
 
 Integrated Google AdMob for in-game advertisements to support the app.
+
 ---
-## Installation
+
+# Installation
 Prerequisites
 Unity (preferably the latest version)
 Firebase SDK for Unity
@@ -60,12 +63,17 @@ Clone this repository to your local machine:
 ```
 git clone https://github.com/Rizwanhu/Helix-Jump.git
 ```
+
 Open the project in Unity.
+
 `[Firebase Documentation for Unity](https://firebase.google.com/docs/unity/setup)`
+
 ---
+
 `[ADMOB Documentation for Unity]([https://firebase.google.com/docs/unity/setup](https://developers.google.com/admob/unity/quick-start))`
+
 ---
-Import the required SDKs:
+# Import the required SDKs:
 
 Import Firebase SDK and configure it using your Firebase project settings.
 Import Google AdMob SDK and configure it with your AdMob ID for ad integration.
@@ -73,8 +81,10 @@ Build and run the project on your preferred platform (Windows, Android, iOS, etc
 
 ![Uploading Screenshot 2024-12-15 200127.png…]()
 
+---
 
-## How to Play
+# How to Play
+
 Use the mouse to drag and rotate the environment.
 The goal is to control the ball and avoid obstacles to reach the next level.
 Score is tracked, and the highest score is stored locally.
@@ -83,12 +93,15 @@ Future Improvements
 Leaderboard Integration: Plan to integrate a global leaderboard using Firebase or a similar service.
 More Levels: More challenging levels and environments will be added.
 Player Achievements: Achievements and rewards system based on performance.
+
 ---
 
 <img width="960" alt="Screenshot 2024-12-15 200307" src="https://github.com/user-attachments/assets/b46339f8-9baa-4e72-930f-a0ac97d5e0bb" />
 
 ## Contributing
+
 If you have any suggestions or improvements, feel free to fork this repository, make changes, and create a pull request. Contributions are always welcome!
+
 ---
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
