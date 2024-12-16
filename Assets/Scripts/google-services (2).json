@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "903341208423",
+    "project_id": "unity-lab-82090",
+    "storage_bucket": "unity-lab-82090.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903341208423:android:ae54b482a2e80cc46535c2",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.labb11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6up-NwHAi6dJTrGlC927ikcOPq5izhX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903341208423:android:dee6a5b6d52236ec6535c2",
+        "android_client_info": {
+          "package_name": "com.Rizwan.lab_11_gd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6up-NwHAi6dJTrGlC927ikcOPq5izhX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903341208423:android:76ffd19934112e066535c2",
+        "android_client_info": {
+          "package_name": "com.rizwan.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6up-NwHAi6dJTrGlC927ikcOPq5izhX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
