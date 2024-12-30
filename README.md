@@ -4,7 +4,7 @@
 
 ---
 
-### 2 Minute GamePlay Video **[Helix Jump VIDEO]([https://rizwanhsz.itch.io/helix-jump](https://www.loom.com/share/7e0a3b86936748979534092f56fb1f56?sid=6622e974-eef1-4173-91fb-fefdd22ffec9)**!
+### 2 Minute GamePlay Video **[Helix Jump VIDEO](https://www.loom.com/share/7e0a3b86936748979534092f56fb1f56?sid=6622e974-eef1-4173-91fb-fefdd22ffec9)**!
 
 <img width="960" alt="Screenshot 2024-12-15 200003" src="https://github.com/user-attachments/assets/90e2d3bb-85fe-4f8b-8f00-e0a406f2adaf" />
 
