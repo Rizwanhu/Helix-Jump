@@ -2,6 +2,10 @@
 ---
 Check out the game **[Helix Jump on Itch.io](https://rizwanhsz.itch.io/helix-jump)**! (For PC)
 
+---
+
+2 Minute GamePlay Video **[Helix Jump VIDEO]([https://rizwanhsz.itch.io/helix-jump](https://www.loom.com/share/7e0a3b86936748979534092f56fb1f56?sid=6622e974-eef1-4173-91fb-fefdd22ffec9))**!
+
 <img width="960" alt="Screenshot 2024-12-15 200003" src="https://github.com/user-attachments/assets/90e2d3bb-85fe-4f8b-8f00-e0a406f2adaf" />
 
 A Unity-based game featuring multiple levels, interactive gameplay, sound effects, and Firebase/Google AdMob integration. This game allows users to track their scores, set new high scores, and experience a fun, engaging experience with smooth controls, visual effects, and skin customization.
